@@ -63,6 +63,8 @@ Calcular cada corriente presente en el circuito mostrado mediante el método de 
 
 ![image](https://github.com/Jhosu115/Informe-de-Laboratorio-3/blob/main/WhatsApp%20Image%202021-06-15%20at%209.59.18%20PM%20(1).jpeg)
 
+![image](https://github.com/Jhosu115/Informe-de-Laboratorio-3/blob/main/WhatsApp%20Image%202021-06-15%20at%2010.20.33%20PM%20(1).jpeg)
+
 ![image](https://github.com/Jhosu115/Informe-de-Laboratorio-3/blob/main/WhatsApp%20Image%202021-06-15%20at%209.59.18%20PM%20(2).jpeg)
 
 ![image](https://github.com/Jhosu115/Informe-de-Laboratorio-3/blob/main/WhatsApp%20Image%202021-06-15%20at%209.59.18%20PM%20(3).jpeg)
