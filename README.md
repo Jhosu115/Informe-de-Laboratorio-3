@@ -59,6 +59,10 @@ Calcular cada corriente presente en el circuito mostrado mediante el método de 
 
 # 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
+![image](https://github.com/Jhosu115/Informe-de-Laboratorio-3/blob/main/WhatsApp%20Image%202021-06-15%20at%209.59.18%20PM.jpeg)
+
+
+
 
 # 5 VIDEO 
 
